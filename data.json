@@ -1,0 +1,842 @@
+[
+  [
+    "2024.12.01",
+    "Rent / Loan",
+    "251",
+    "Renta Diciembre 2024 1 de 2",
+    "Valid"
+  ],
+  [
+    "2024.12.01",
+    "Propiedad",
+    "1000",
+    "Mantenimiento Apartamento Diciembre 2024",
+    "Valid"
+  ],
+  [
+    "2024.12.01",
+    "Utilities",
+    "5",
+    "Manejo de cuenta Banrural",
+    "Valid"
+  ],
+  [
+    "2024.12.01",
+    "Utilities",
+    "25",
+    "Manejo Cuenta Bi",
+    "Valid"
+  ],
+  [
+    "2024.12.01",
+    "Groceries",
+    "3.61",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.03",
+    "Groceries",
+    "4.25",
+    "Salsa de soya",
+    "Valid"
+  ],
+  [
+    "2024.12.03",
+    "Propiedad",
+    "4.9",
+    "Tres bowls plásticos",
+    "Valid"
+  ],
+  [
+    "2024.12.03",
+    "Groceries",
+    "6.93",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.03",
+    "Groceries",
+    "5.8",
+    "Salsa de queso",
+    "Valid"
+  ],
+  [
+    "2024.12.03",
+    "Groceries",
+    "10",
+    "Papaya",
+    "Valid"
+  ],
+  [
+    "2024.12.04",
+    "Inversiones",
+    "750",
+    "Telus Noviembre",
+    "Valid"
+  ],
+  [
+    "2024.12.04",
+    "Groceries",
+    "12.5",
+    "Verduras",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Utilities",
+    "11",
+    "Tiempo Claro",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Eating Out",
+    "12",
+    "Flan Campero convivio IRTRA",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Groceries",
+    "9.86",
+    "Paiz",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Groceries",
+    "4",
+    "Berenjena",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Groceries",
+    "9",
+    "Pan para desayunos",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Groceries",
+    "2.24",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.05",
+    "Groceries",
+    "12",
+    "Chocolate",
+    "Valid"
+  ],
+  [
+    "2024.12.06",
+    "Groceries",
+    "13",
+    "Verduras y frutas",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Gifts",
+    "10",
+    "Diadema para voluntariado",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Groceries",
+    "3.57",
+    "Banano",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Eating Out",
+    "58",
+    "Dos magdalenas para visita a papás",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Groceries",
+    "4.82",
+    "Piernas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Groceries",
+    "24.31",
+    "Pollo entero",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Eating Out",
+    "3.5",
+    "Botella de agua Paiz voluntariado",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Car",
+    "62.48",
+    "Gasolina",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Gifts",
+    "10.73",
+    "3 bolsas de arroz",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Gifts",
+    "17.78",
+    "3 bolsas de frijol",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Eating Out",
+    "34.99",
+    "Hot dog gasolinera voluntariado",
+    "Valid"
+  ],
+  [
+    "2024.12.07",
+    "Utilities",
+    "11",
+    "Tiempo claro visita a papás",
+    "Valid"
+  ],
+  [
+    "2024.12.10",
+    "Transport",
+    "5",
+    "Busito a Pacific Center",
+    "Valid"
+  ],
+  [
+    "2024.12.10",
+    "Eating Out",
+    "58",
+    "Pollo Granjero con Nery",
+    "Valid"
+  ],
+  [
+    "2024.12.10",
+    "Eating Out",
+    "5",
+    "Pan dulce - café con Nery",
+    "Valid"
+  ],
+  [
+    "2024.12.10",
+    "Transport",
+    "5",
+    "Bus de Santa Catarina Pinula a Trebol",
+    "Valid"
+  ],
+  [
+    "2024.12.10",
+    "Transport",
+    "4",
+    "Bus de Peronia a La Fuente",
+    "Valid"
+  ],
+  [
+    "2024.12.10",
+    "Rent / Loan",
+    "249",
+    "Alquiler Diciembre 2024 2 de 2",
+    "Valid"
+  ],
+  [
+    "2024.12.11",
+    "Gifts",
+    "1000",
+    "Prestamo a Vicky.",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Transport",
+    "10",
+    "Busito con Rb",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "29.94",
+    "Pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "13.14",
+    "Aguacates",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Utilities",
+    "25",
+    "Tiempo Claro",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "5.5",
+    "Pan pars desayunos",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "3.55",
+    "Lechugas",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "13.29",
+    "Pechuga de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "5.61",
+    "Alas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.12",
+    "Groceries",
+    "4.48",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.13",
+    "Transport",
+    "5",
+    "Bus Peronia-Periférico.",
+    "Valid"
+  ],
+  [
+    "2024.12.13",
+    "Transport",
+    "20",
+    "Recarga Transmetro",
+    "Valid"
+  ],
+  [
+    "2024.12.13",
+    "Gifts",
+    "350",
+    "Lucky",
+    "Valid"
+  ],
+  [
+    "2024.12.13",
+    "Transport",
+    "5",
+    "Busito a casa",
+    "Valid"
+  ],
+  [
+    "2024.12.13",
+    "Groceries",
+    "50",
+    "Verduras y huevos",
+    "Valid"
+  ],
+  [
+    "2024.12.14",
+    "Groceries",
+    "9.06",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.14",
+    "Groceries",
+    "65.43",
+    "Alas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.14",
+    "Groceries",
+    "3.55",
+    "Azucar",
+    "Valid"
+  ],
+  [
+    "2024.12.14",
+    "Groceries",
+    "1.39",
+    "Mollejas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.15",
+    "Car",
+    "136.01",
+    "Gasolina",
+    "Valid"
+  ],
+  [
+    "2024.12.15",
+    "Groceries",
+    "76.95",
+    "Galletas Chikys",
+    "Valid"
+  ],
+  [
+    "2024.12.15",
+    "Groceries",
+    "41.95",
+    "Galletas Soda",
+    "Valid"
+  ],
+  [
+    "2024.12.15",
+    "Clothing",
+    "49.98",
+    "Desodorante",
+    "Valid"
+  ],
+  [
+    "2024.12.15",
+    "Groceries",
+    "38.98",
+    "Jabón Protex",
+    "Valid"
+  ],
+  [
+    "2024.12.16",
+    "Propiedad",
+    "7.69",
+    "Consulta Registro de la propiedad",
+    "Valid"
+  ],
+  [
+    "2024.12.16",
+    "Propiedad",
+    "1739.84",
+    "Iusi cuarto trimestre",
+    "Valid"
+  ],
+  [
+    "2024.12.16",
+    "Propiedad",
+    "7.69",
+    "Consulta registro de la propiedad",
+    "Valid"
+  ],
+  [
+    "2024.12.16",
+    "Groceries",
+    "4",
+    "2 zanahorias",
+    "Valid"
+  ],
+  [
+    "2024.12.17",
+    "Crista",
+    "785",
+    "Xmas gift",
+    "Valid"
+  ],
+  [
+    "2024.12.17",
+    "Groceries",
+    "24.25",
+    "8 coquitas",
+    "Valid"
+  ],
+  [
+    "2024.12.17",
+    "Groceries",
+    "1.77",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.18",
+    "Groceries",
+    "11.5",
+    "Papaya y manzanas verdes",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Groceries",
+    "11.75",
+    "Aguacates",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Groceries",
+    "4.45",
+    "Margarina",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Groceries",
+    "8.25",
+    "Mollejas",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Medical",
+    "400",
+    "Anteojos",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Transport",
+    "10",
+    "Busito a Pacific con Rb",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Groceries",
+    "6.13",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Groceries",
+    "1.85",
+    "Lechuga",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Household",
+    "8",
+    "Moldes de aluminio",
+    "Valid"
+  ],
+  [
+    "2024.12.19",
+    "Groceries",
+    "16",
+    "Ketchup",
+    "Valid"
+  ],
+  [
+    "2024.12.20",
+    "Transport",
+    "5",
+    "Bus Peronia-Periferico",
+    "Valid"
+  ],
+  [
+    "2024.12.20",
+    "Eating Out",
+    "84",
+    "Desayuno Patsy con Moshi",
+    "Valid"
+  ],
+  [
+    "2024.12.20",
+    "Transport",
+    "5",
+    "Busito Pacific-casa",
+    "Valid"
+  ],
+  [
+    "2024.12.20",
+    "Groceries",
+    "5",
+    "Acelga - tienda",
+    "Valid"
+  ],
+  [
+    "2024.12.20",
+    "Groceries",
+    "18.5",
+    "Verduras - Pickup",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "2.07",
+    "Muslo de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "3.44",
+    "Alas",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "6.73",
+    "Jamón",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "24.77",
+    "Pollo entero",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "4.14",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "15.78",
+    "Cuadriles de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "17.14",
+    "Cuadriles de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "1.39",
+    "Mollejas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Groceries",
+    "32.02",
+    "Pechugas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Eating Out",
+    "19.3",
+    "Arrolladito para café con peques",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Car",
+    "5",
+    "Parqueo Denny's",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Ketzia",
+    "800",
+    "Xmas gift",
+    "Valid"
+  ],
+  [
+    "2024.12.21",
+    "Marcos",
+    "800",
+    "Xmas gift",
+    "Valid"
+  ],
+  [
+    "2024.12.23",
+    "Groceries",
+    "22.5",
+    "Verduras",
+    "Valid"
+  ],
+  [
+    "2024.12.23",
+    "Eating Out",
+    "8.45",
+    "Chantilly",
+    "Valid"
+  ],
+  [
+    "2024.12.23",
+    "Eating Out",
+    "19.7",
+    "Brownie",
+    "Valid"
+  ],
+  [
+    "2024.12.23",
+    "Groceries",
+    "9.4",
+    "Galletas",
+    "Valid"
+  ],
+  [
+    "2024.12.23",
+    "Groceries",
+    "2.39",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.23",
+    "Groceries",
+    "6",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.24",
+    "Eating Out",
+    "24",
+    "Pan tostado para peques y tÃ­a",
+    "Valid"
+  ],
+  [
+    "2024.12.26",
+    "Transport",
+    "10",
+    "Busito con Rebe al mercado",
+    "Valid"
+  ],
+  [
+    "2024.12.26",
+    "Car",
+    "2.5",
+    "Parqueo recoger anteojos",
+    "Valid"
+  ],
+  [
+    "2024.12.26",
+    "Groceries",
+    "16.13",
+    "Aguacates",
+    "Valid"
+  ],
+  [
+    "2024.12.26",
+    "Groceries",
+    "5.6",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.27",
+    "Groceries",
+    "5.5",
+    "Pan para desayunos",
+    "Valid"
+  ],
+  [
+    "2024.12.27",
+    "Eating Out",
+    "10",
+    "Tamal de Añ Nuevo",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Groceries",
+    "1.39",
+    "Mollejas",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Eating Out",
+    "14.25",
+    "Champurradas",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Gifts",
+    "4.55",
+    "Lapiceros",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Gifts",
+    "20.4",
+    "Cuadernos",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Groceries",
+    "8.05",
+    "Bananos",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Groceries",
+    "1.86",
+    "Muslo de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Groceries",
+    "3.17",
+    "Alas de pollo",
+    "Valid"
+  ],
+  [
+    "2024.12.28",
+    "Propiedad",
+    "202.04",
+    "Electricidad Diciembre",
+    "Valid"
+  ],
+  [
+    "2024.12.31",
+    "Groceries",
+    "10",
+    "Papaya",
+    "Valid"
+  ],
+  [
+    "2024.12.31",
+    "Groceries",
+    "3.4",
+    "Lechuga",
+    "Valid"
+  ],
+  [
+    "2024.12.31",
+    "Groceries",
+    "6.1",
+    "Bananos",
+    "Valid"
+  ]
+]
