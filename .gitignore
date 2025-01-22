@@ -1,10 +1,1 @@
-# Python virtual environment
-venv/
-env/
-
-# Python cache files
-__pycache__/
-*.pyc
-
-# Local development settings
-.env
+/home/matabell/Documents/Workspaces/Python/Wrangling/myenv
